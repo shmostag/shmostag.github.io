@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shmostag.github.io/sitemap.html.gz
+Sitemap: https://shmostag.github.io/app/sitemap.html.gz
+Sitemap: https://shmostag.github.io/assets/sitemap.html.gz
+Sitemap: https://shmostag.github.io/css/sitemap.html.gz
+Sitemap: https://shmostag.github.io/includes/sitemap.html.gz
+Sitemap: https://shmostag.github.io/item/sitemap.html.gz
+Sitemap: https://shmostag.github.io/src/sitemap.html.gz
